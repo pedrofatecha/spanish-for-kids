@@ -58,6 +58,8 @@ function iniciar(D, A){
         if(/^es[-_](US|MX|419)/i.test(v.lang)) s += 2;
         if(/natural|neural|online|google|premium|enhanced|siri/i.test(v.name)) s += 3;
         if(/compact|espeak/i.test(v.name)) s -= 2;
+        if(/paulina|m[oó]nica/i.test(v.name)) s += 3;
+        if(/eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley/i.test(v.name)) s -= 5;
         return s;
       }
       voice = vs.sort(function(a, b){ return score(b) - score(a); })[0] || null;
@@ -77,7 +79,7 @@ function iniciar(D, A){
       u.lang = voice ? voice.lang : 'es-MX';
       if(voice) u.voice = voice;
       u.rate = 0.8;
-      u.pitch = 1.1;
+      u.pitch = 1;
       speechSynthesis.speak(u);
     }catch(e){}
   }
@@ -116,7 +118,7 @@ function iniciar(D, A){
       u.lang = voice ? voice.lang : 'es-MX';
       if(voice) u.voice = voice;
       u.rate = 0.8;
-      u.pitch = 1.1;
+      u.pitch = 1;
       u.onend = done;
       u.onerror = done;
       speechSynthesis.speak(u);
@@ -234,7 +236,7 @@ function iniciar(D, A){
         u.lang = voice ? voice.lang : 'es-MX';
         if(voice) u.voice = voice;
         u.rate = p[1] || 0.8;
-        u.pitch = p[2] || 1.1;
+        u.pitch = p[2] || 1;
         u.volume = p[3] || 1;
         if(onStart) u.onstart = function(){ onStart(i); };
         if(onEnd && i === list.length - 1) u.onend = onEnd;
