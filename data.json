@@ -1132,7 +1132,7 @@
    "word": "boca",
    "pic": "👄",
    "en": "mouth",
-   "nameClip": "s:be:1"
+   "nameClip": "l:b"
   },
   {
    "l": "C",
@@ -1140,7 +1140,7 @@
    "word": "casa",
    "pic": "🏠",
    "en": "house",
-   "nameClip": "s:ce:1"
+   "nameClip": "l:c"
   },
   {
    "l": "D",
@@ -1148,7 +1148,7 @@
    "word": "dedo",
    "pic": "☝️",
    "en": "finger",
-   "nameClip": "s:de:1"
+   "nameClip": "l:d"
   },
   {
    "l": "E",
@@ -1163,7 +1163,8 @@
    "name": "efe",
    "word": "foca",
    "pic": "🦭",
-   "en": "seal"
+   "en": "seal",
+   "nameClip": "l:f"
   },
   {
    "l": "G",
@@ -1171,14 +1172,15 @@
    "word": "gato",
    "pic": "🐱",
    "en": "cat",
-   "nameClip": "s:je:1"
+   "nameClip": "l:g"
   },
   {
    "l": "H",
    "name": "hache",
    "word": "hada",
    "pic": "🧚",
-   "en": "fairy"
+   "en": "fairy",
+   "nameClip": "l:h"
   },
   {
    "l": "I",
@@ -1193,7 +1195,8 @@
    "name": "jota",
    "word": "jugo",
    "pic": "🧃",
-   "en": "juice"
+   "en": "juice",
+   "nameClip": "l:j"
   },
   {
    "l": "K",
@@ -1201,35 +1204,39 @@
    "word": "koala",
    "pic": "🐨",
    "en": "koala",
-   "nameClip": "s:ca:1"
+   "nameClip": "l:k"
   },
   {
    "l": "L",
    "name": "ele",
    "word": "luna",
    "pic": "🌙",
-   "en": "moon"
+   "en": "moon",
+   "nameClip": "l:l"
   },
   {
    "l": "M",
    "name": "eme",
    "word": "mano",
    "pic": "✋",
-   "en": "hand"
+   "en": "hand",
+   "nameClip": "l:m"
   },
   {
    "l": "N",
    "name": "ene",
    "word": "naranja",
    "pic": "🍊",
-   "en": "orange"
+   "en": "orange",
+   "nameClip": "l:n"
   },
   {
    "l": "Ñ",
    "name": "eñe",
    "word": "piña",
    "pic": "🍍",
-   "en": "pineapple"
+   "en": "pineapple",
+   "nameClip": "l:ñ"
   },
   {
    "l": "O",
@@ -1245,7 +1252,7 @@
    "word": "perro",
    "pic": "🐶",
    "en": "dog",
-   "nameClip": "s:pe:1"
+   "nameClip": "l:p"
   },
   {
    "l": "Q",
@@ -1253,21 +1260,23 @@
    "word": "queso",
    "pic": "🧀",
    "en": "cheese",
-   "nameClip": "s:cu:1"
+   "nameClip": "l:q"
   },
   {
    "l": "R",
    "name": "erre",
    "word": "rana",
    "pic": "🐸",
-   "en": "frog"
+   "en": "frog",
+   "nameClip": "l:r"
   },
   {
    "l": "S",
    "name": "ese",
    "word": "sopa",
    "pic": "🍲",
-   "en": "soup"
+   "en": "soup",
+   "nameClip": "l:s"
   },
   {
    "l": "T",
@@ -1275,7 +1284,7 @@
    "word": "toro",
    "pic": "🐂",
    "en": "bull",
-   "nameClip": "s:te:1"
+   "nameClip": "l:t"
   },
   {
    "l": "U",
@@ -1290,21 +1299,24 @@
    "name": "uve",
    "word": "vaca",
    "pic": "🐮",
-   "en": "cow"
+   "en": "cow",
+   "nameClip": "l:v"
   },
   {
    "l": "W",
    "name": "uve doble",
    "word": "wafle",
    "pic": "🧇",
-   "en": "waffle"
+   "en": "waffle",
+   "nameClip": "l:w"
   },
   {
    "l": "X",
    "name": "equis",
    "word": "taxi",
    "pic": "🚕",
-   "en": "taxi"
+   "en": "taxi",
+   "nameClip": "l:x"
   },
   {
    "l": "Y",
@@ -1312,14 +1324,15 @@
    "word": "yoyo",
    "pic": "🪀",
    "en": "yo-yo",
-   "nameClip": "s:ye:1"
+   "nameClip": "l:y"
   },
   {
    "l": "Z",
    "name": "zeta",
    "word": "taza",
    "pic": "☕",
-   "en": "cup"
+   "en": "cup",
+   "nameClip": "l:z"
   }
  ]
 }

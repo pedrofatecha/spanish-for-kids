@@ -1,5 +1,5 @@
 # Colorín Colorado: Spanish for Kids
-A web app that teaches kids to read and write in Spanish, with recorded audio for its words, syllables, vowels and sentences.
+A web app that teaches kids to read and write in Spanish, with audio for its letters, syllables, words and sentences in one voice (Microsoft's Ximena, generated with text-to-speech).
 
 - **Alfabeto:** the 27 letters, each with its name and a word that uses it.
 - **Aprender, Adivina and Memoria:** vocabulary cards, a listening game and a matching game by topic.
@@ -11,7 +11,7 @@ A web app that teaches kids to read and write in Spanish, with recorded audio fo
 - `styles.css`: colors and layout
 - `app.js`: game logic
 - `data.json`: letters, words, syllables, sentences and pictures
-- `audio.json`: the recorded audio
+- `audio.json`: the generated audio
 
 ## Run it locally
 The page loads its data with `fetch`, so opening `index.html` directly won't work. Start a local server in this folder:

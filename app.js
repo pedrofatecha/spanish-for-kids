@@ -311,7 +311,7 @@ function iniciar(D, A){
 
   function sylView(body){
     var def = CONSDEF[CONSIDX[state.cons] || 0];
-    var notes = {c:'Ca, co y cu suenan fuerte, como en casa. Ce y ci suenan como se y si, como en celeste.', h:'La h no suena.', qu:'En que y qui, la u no suena.', g:'En gue y gui, la u no suena.'};
+    var notes = {c:'Ca, co y cu suenan fuerte, como en casa. Ce y ci suenan suave, como en cena.', h:'La h no suena.', qu:'En que y qui, la u no suena.', g:'En gue y gui, la u no suena.'};
     var n = def.s.length;
     body.innerHTML = '<p class="hint">Elige una letra y toca cada sílaba.</p>' +
       '<div class="cons" role="group" aria-label="Letra">' +
