@@ -1,0 +1,1325 @@
+{
+ "cats": [
+  {
+   "name": "Animales",
+   "color": "var(--red)",
+   "items": [
+    {
+     "es": "perro",
+     "en": "dog",
+     "pic": "🐶"
+    },
+    {
+     "es": "gato",
+     "en": "cat",
+     "pic": "🐱"
+    },
+    {
+     "es": "pájaro",
+     "en": "bird",
+     "pic": "🐦"
+    },
+    {
+     "es": "pez",
+     "en": "fish",
+     "pic": "🐟"
+    },
+    {
+     "es": "caballo",
+     "en": "horse",
+     "pic": "🐴"
+    },
+    {
+     "es": "vaca",
+     "en": "cow",
+     "pic": "🐮"
+    },
+    {
+     "es": "conejo",
+     "en": "rabbit",
+     "pic": "🐰"
+    },
+    {
+     "es": "elefante",
+     "en": "elephant",
+     "pic": "🐘"
+    }
+   ]
+  },
+  {
+   "name": "Frutas",
+   "color": "var(--yellow)",
+   "items": [
+    {
+     "es": "manzana",
+     "en": "apple",
+     "pic": "🍎"
+    },
+    {
+     "es": "plátano",
+     "en": "banana",
+     "pic": "🍌"
+    },
+    {
+     "es": "naranja",
+     "en": "orange",
+     "pic": "🍊"
+    },
+    {
+     "es": "uva",
+     "en": "grape",
+     "pic": "🍇"
+    },
+    {
+     "es": "fresa",
+     "en": "strawberry",
+     "pic": "🍓"
+    },
+    {
+     "es": "sandía",
+     "en": "watermelon",
+     "pic": "🍉"
+    },
+    {
+     "es": "piña",
+     "en": "pineapple",
+     "pic": "🍍"
+    },
+    {
+     "es": "pera",
+     "en": "pear",
+     "pic": "🍐"
+    }
+   ]
+  },
+  {
+   "name": "Colores",
+   "color": "var(--purple)",
+   "items": [
+    {
+     "es": "rojo",
+     "en": "red",
+     "color": "#E5383B"
+    },
+    {
+     "es": "azul",
+     "en": "blue",
+     "color": "#2F6FED"
+    },
+    {
+     "es": "amarillo",
+     "en": "yellow",
+     "color": "#FFD23F"
+    },
+    {
+     "es": "verde",
+     "en": "green",
+     "color": "#2BB673"
+    },
+    {
+     "es": "naranja",
+     "en": "orange",
+     "color": "#FF8A1F"
+    },
+    {
+     "es": "morado",
+     "en": "purple",
+     "color": "#7B4BD6"
+    },
+    {
+     "es": "rosa",
+     "en": "pink",
+     "color": "#FF7EB6"
+    },
+    {
+     "es": "negro",
+     "en": "black",
+     "color": "#15151A"
+    },
+    {
+     "es": "blanco",
+     "en": "white",
+     "color": "#FFFFFF"
+    },
+    {
+     "es": "café",
+     "en": "brown",
+     "color": "#8B5A2B"
+    }
+   ]
+  },
+  {
+   "name": "Números",
+   "color": "var(--blue)",
+   "items": [
+    {
+     "es": "uno",
+     "en": "one",
+     "n": 1
+    },
+    {
+     "es": "dos",
+     "en": "two",
+     "n": 2
+    },
+    {
+     "es": "tres",
+     "en": "three",
+     "n": 3
+    },
+    {
+     "es": "cuatro",
+     "en": "four",
+     "n": 4
+    },
+    {
+     "es": "cinco",
+     "en": "five",
+     "n": 5
+    },
+    {
+     "es": "seis",
+     "en": "six",
+     "n": 6
+    },
+    {
+     "es": "siete",
+     "en": "seven",
+     "n": 7
+    },
+    {
+     "es": "ocho",
+     "en": "eight",
+     "n": 8
+    },
+    {
+     "es": "nueve",
+     "en": "nine",
+     "n": 9
+    },
+    {
+     "es": "diez",
+     "en": "ten",
+     "n": 10
+    }
+   ]
+  },
+  {
+   "name": "Familia",
+   "color": "var(--green)",
+   "items": [
+    {
+     "es": "mamá",
+     "en": "mom",
+     "pic": "👩"
+    },
+    {
+     "es": "papá",
+     "en": "dad",
+     "pic": "👨"
+    },
+    {
+     "es": "abuela",
+     "en": "grandma",
+     "pic": "👵"
+    },
+    {
+     "es": "abuelo",
+     "en": "grandpa",
+     "pic": "👴"
+    },
+    {
+     "es": "hermano",
+     "en": "brother",
+     "pic": "👦"
+    },
+    {
+     "es": "hermana",
+     "en": "sister",
+     "pic": "👧"
+    },
+    {
+     "es": "bebé",
+     "en": "baby",
+     "pic": "👶"
+    },
+    {
+     "es": "familia",
+     "en": "family",
+     "pic": "👪"
+    }
+   ]
+  }
+ ],
+ "vowels": [
+  {
+   "l": "a",
+   "ex": "avión",
+   "pic": "✈️"
+  },
+  {
+   "l": "e",
+   "ex": "elefante",
+   "pic": "🐘"
+  },
+  {
+   "l": "i",
+   "ex": "isla",
+   "pic": "🏝️"
+  },
+  {
+   "l": "o",
+   "ex": "oso",
+   "pic": "🐻"
+  },
+  {
+   "l": "u",
+   "ex": "uva",
+   "pic": "🍇"
+  }
+ ],
+ "consdef": [
+  {
+   "c": "m",
+   "s": [
+    "ma",
+    "me",
+    "mi",
+    "mo",
+    "mu"
+   ]
+  },
+  {
+   "c": "p",
+   "s": [
+    "pa",
+    "pe",
+    "pi",
+    "po",
+    "pu"
+   ]
+  },
+  {
+   "c": "s",
+   "s": [
+    "sa",
+    "se",
+    "si",
+    "so",
+    "su"
+   ]
+  },
+  {
+   "c": "l",
+   "s": [
+    "la",
+    "le",
+    "li",
+    "lo",
+    "lu"
+   ]
+  },
+  {
+   "c": "t",
+   "s": [
+    "ta",
+    "te",
+    "ti",
+    "to",
+    "tu"
+   ]
+  },
+  {
+   "c": "n",
+   "s": [
+    "na",
+    "ne",
+    "ni",
+    "no",
+    "nu"
+   ]
+  },
+  {
+   "c": "d",
+   "s": [
+    "da",
+    "de",
+    "di",
+    "do",
+    "du"
+   ]
+  },
+  {
+   "c": "c",
+   "s": [
+    "ca",
+    "ce",
+    "ci",
+    "co",
+    "cu"
+   ]
+  },
+  {
+   "c": "f",
+   "s": [
+    "fa",
+    "fe",
+    "fi",
+    "fo",
+    "fu"
+   ]
+  },
+  {
+   "c": "b",
+   "s": [
+    "ba",
+    "be",
+    "bi",
+    "bo",
+    "bu"
+   ]
+  },
+  {
+   "c": "v",
+   "s": [
+    "va",
+    "ve",
+    "vi",
+    "vo",
+    "vu"
+   ]
+  },
+  {
+   "c": "r",
+   "s": [
+    "ra",
+    "re",
+    "ri",
+    "ro",
+    "ru"
+   ]
+  },
+  {
+   "c": "g",
+   "s": [
+    "ga",
+    "gue",
+    "gui",
+    "go",
+    "gu"
+   ]
+  },
+  {
+   "c": "j",
+   "s": [
+    "ja",
+    "je",
+    "ji",
+    "jo",
+    "ju"
+   ]
+  },
+  {
+   "c": "ñ",
+   "s": [
+    "ña",
+    "ñe",
+    "ñi",
+    "ño",
+    "ñu"
+   ]
+  },
+  {
+   "c": "y",
+   "s": [
+    "ya",
+    "ye",
+    "yi",
+    "yo",
+    "yu"
+   ]
+  },
+  {
+   "c": "z",
+   "s": [
+    "za",
+    "ze",
+    "zi",
+    "zo",
+    "zu"
+   ]
+  },
+  {
+   "c": "ll",
+   "s": [
+    "lla",
+    "lle",
+    "lli",
+    "llo",
+    "llu"
+   ]
+  },
+  {
+   "c": "ch",
+   "s": [
+    "cha",
+    "che",
+    "chi",
+    "cho",
+    "chu"
+   ]
+  },
+  {
+   "c": "qu",
+   "s": [
+    "que",
+    "qui"
+   ]
+  },
+  {
+   "c": "h",
+   "s": [
+    "ha",
+    "he",
+    "hi",
+    "ho",
+    "hu"
+   ]
+  }
+ ],
+ "words": [
+  {
+   "s": [
+    "ma",
+    "má"
+   ],
+   "pic": "👩"
+  },
+  {
+   "s": [
+    "pa",
+    "pá"
+   ],
+   "pic": "👨"
+  },
+  {
+   "s": [
+    "mi",
+    "ma"
+   ],
+   "pic": "🤗"
+  },
+  {
+   "s": [
+    "so",
+    "pa"
+   ],
+   "pic": "🍲"
+  },
+  {
+   "s": [
+    "lu",
+    "na"
+   ],
+   "pic": "🌙"
+  },
+  {
+   "s": [
+    "ma",
+    "no"
+   ],
+   "pic": "✋"
+  },
+  {
+   "s": [
+    "ma",
+    "pa"
+   ],
+   "pic": "🗺️"
+  },
+  {
+   "s": [
+    "pa",
+    "to"
+   ],
+   "pic": "🦆"
+  },
+  {
+   "s": [
+    "sa",
+    "po"
+   ],
+   "pic": "🐸"
+  },
+  {
+   "s": [
+    "mo",
+    "no"
+   ],
+   "pic": "🐵"
+  },
+  {
+   "s": [
+    "la",
+    "ta"
+   ],
+   "pic": "🥫"
+  },
+  {
+   "s": [
+    "da",
+    "do"
+   ],
+   "pic": "🎲"
+  },
+  {
+   "s": [
+    "de",
+    "do"
+   ],
+   "pic": "☝️"
+  },
+  {
+   "s": [
+    "lu",
+    "pa"
+   ],
+   "pic": "🔍"
+  },
+  {
+   "s": [
+    "no",
+    "ta"
+   ],
+   "pic": "🎵"
+  },
+  {
+   "s": [
+    "la",
+    "na"
+   ],
+   "pic": "🧶"
+  },
+  {
+   "s": [
+    "bo",
+    "ta"
+   ],
+   "pic": "🥾"
+  },
+  {
+   "s": [
+    "bo",
+    "ca"
+   ],
+   "pic": "👄"
+  },
+  {
+   "s": [
+    "lo",
+    "bo"
+   ],
+   "pic": "🐺"
+  },
+  {
+   "s": [
+    "be",
+    "bé"
+   ],
+   "pic": "👶"
+  },
+  {
+   "s": [
+    "ca",
+    "sa"
+   ],
+   "pic": "🏠"
+  },
+  {
+   "s": [
+    "ca",
+    "ma"
+   ],
+   "pic": "🛏️"
+  },
+  {
+   "s": [
+    "co",
+    "pa"
+   ],
+   "pic": "🏆"
+  },
+  {
+   "s": [
+    "ta",
+    "co"
+   ],
+   "pic": "🌮"
+  },
+  {
+   "s": [
+    "ce",
+    "na"
+   ],
+   "pic": "🍽️"
+  },
+  {
+   "s": [
+    "ci",
+    "ne"
+   ],
+   "pic": "🎬"
+  },
+  {
+   "s": [
+    "fo",
+    "ca"
+   ],
+   "pic": "🦭"
+  },
+  {
+   "s": [
+    "so",
+    "fá"
+   ],
+   "pic": "🛋️"
+  },
+  {
+   "s": [
+    "ca",
+    "fé"
+   ],
+   "pic": "☕"
+  },
+  {
+   "s": [
+    "va",
+    "ca"
+   ],
+   "pic": "🐮"
+  },
+  {
+   "s": [
+    "va",
+    "so"
+   ],
+   "pic": "🥤"
+  },
+  {
+   "s": [
+    "ve",
+    "la"
+   ],
+   "pic": "🕯️"
+  },
+  {
+   "s": [
+    "na",
+    "ve"
+   ],
+   "pic": "🚀"
+  },
+  {
+   "s": [
+    "pa",
+    "vo"
+   ],
+   "pic": "🦃"
+  },
+  {
+   "s": [
+    "ra",
+    "na"
+   ],
+   "pic": "🐸"
+  },
+  {
+   "s": [
+    "ro",
+    "sa"
+   ],
+   "pic": "🌹"
+  },
+  {
+   "s": [
+    "ro",
+    "pa"
+   ],
+   "pic": "👕"
+  },
+  {
+   "s": [
+    "ra",
+    "ta"
+   ],
+   "pic": "🐀"
+  },
+  {
+   "s": [
+    "re",
+    "mo"
+   ],
+   "pic": "🚣"
+  },
+  {
+   "s": [
+    "lo",
+    "ro"
+   ],
+   "pic": "🦜"
+  },
+  {
+   "s": [
+    "to",
+    "ro"
+   ],
+   "pic": "🐂"
+  },
+  {
+   "s": [
+    "ra",
+    "mo"
+   ],
+   "pic": "💐"
+  },
+  {
+   "s": [
+    "ga",
+    "to"
+   ],
+   "pic": "🐱"
+  },
+  {
+   "s": [
+    "go",
+    "ta"
+   ],
+   "pic": "💧"
+  },
+  {
+   "s": [
+    "la",
+    "go"
+   ],
+   "pic": "🏞️"
+  },
+  {
+   "s": [
+    "ma",
+    "go"
+   ],
+   "pic": "🧙"
+  },
+  {
+   "s": [
+    "ju",
+    "go"
+   ],
+   "pic": "🧃"
+  },
+  {
+   "s": [
+    "ca",
+    "ja"
+   ],
+   "pic": "📦"
+  },
+  {
+   "s": [
+    "ju",
+    "do"
+   ],
+   "pic": "🥋"
+  },
+  {
+   "s": [
+    "ni",
+    "ña"
+   ],
+   "pic": "👧"
+  },
+  {
+   "s": [
+    "ni",
+    "ño"
+   ],
+   "pic": "👦"
+  },
+  {
+   "s": [
+    "mo",
+    "ño"
+   ],
+   "pic": "🎀"
+  },
+  {
+   "s": [
+    "ba",
+    "ño"
+   ],
+   "pic": "🛁"
+  },
+  {
+   "s": [
+    "pu",
+    "ño"
+   ],
+   "pic": "✊"
+  },
+  {
+   "s": [
+    "yo",
+    "yo"
+   ],
+   "pic": "🪀"
+  },
+  {
+   "s": [
+    "ya",
+    "te"
+   ],
+   "pic": "🛥️"
+  },
+  {
+   "s": [
+    "ta",
+    "za"
+   ],
+   "pic": "🍵"
+  },
+  {
+   "s": [
+    "po",
+    "zo"
+   ],
+   "pic": "🕳️"
+  },
+  {
+   "s": [
+    "lla",
+    "ma"
+   ],
+   "pic": "🦙"
+  },
+  {
+   "s": [
+    "lla",
+    "ve"
+   ],
+   "pic": "🔑"
+  },
+  {
+   "s": [
+    "ca",
+    "lle"
+   ],
+   "pic": "🛣️"
+  },
+  {
+   "s": [
+    "po",
+    "llo"
+   ],
+   "pic": "🐔"
+  },
+  {
+   "s": [
+    "si",
+    "lla"
+   ],
+   "pic": "🪑"
+  },
+  {
+   "s": [
+    "le",
+    "che"
+   ],
+   "pic": "🥛"
+  },
+  {
+   "s": [
+    "co",
+    "che"
+   ],
+   "pic": "🚗"
+  },
+  {
+   "s": [
+    "chi",
+    "le"
+   ],
+   "pic": "🌶️"
+  },
+  {
+   "s": [
+    "no",
+    "che"
+   ],
+   "pic": "🌃"
+  },
+  {
+   "s": [
+    "chi",
+    "vo"
+   ],
+   "pic": "🐐"
+  },
+  {
+   "s": [
+    "que",
+    "so"
+   ],
+   "pic": "🧀"
+  },
+  {
+   "s": [
+    "ha",
+    "da"
+   ],
+   "pic": "🧚"
+  },
+  {
+   "s": [
+    "hi",
+    "lo"
+   ],
+   "pic": "🧵"
+  },
+  {
+   "s": [
+    "ho",
+    "ja"
+   ],
+   "pic": "🍃"
+  },
+  {
+   "s": [
+    "hu",
+    "mo"
+   ],
+   "pic": "💨"
+  },
+  {
+   "s": [
+    "ho",
+    "la"
+   ],
+   "pic": "👋"
+  }
+ ],
+ "sents": [
+  {
+   "t": "mi ma-má me a-ma",
+   "pic": "🥰"
+  },
+  {
+   "t": "mi pa-pá me a-ma",
+   "pic": "👨"
+  },
+  {
+   "t": "ma-má me da so-pa",
+   "pic": "🍲"
+  },
+  {
+   "t": "mi mo-no to-ma so-pa",
+   "pic": "🐵"
+  },
+  {
+   "t": "pa-pá po-ne la me-sa",
+   "pic": "🍽️"
+  },
+  {
+   "t": "la so-pa de ma-má",
+   "pic": "🥣"
+  },
+  {
+   "t": "mi pa-pá me da la ma-no",
+   "pic": "🤝"
+  },
+  {
+   "t": "la ni-ña mi-ra la lu-na",
+   "pic": "👧"
+  },
+  {
+   "t": "la ni-ña to-ma le-che",
+   "pic": "🥛"
+  },
+  {
+   "t": "la va-ca da le-che",
+   "pic": "🐮"
+  },
+  {
+   "t": "mi ga-to co-me que-so",
+   "pic": "🐱"
+  },
+  {
+   "t": "la ra-na sa-le ya",
+   "pic": "🐸"
+  },
+  {
+   "t": "ma-má me da po-llo",
+   "pic": "🍗"
+  },
+  {
+   "t": "mi pa-pá to-ma ca-fé",
+   "pic": "☕"
+  },
+  {
+   "t": "la lu-na sa-le de no-che",
+   "pic": "🌃"
+  },
+  {
+   "t": "yo me la-vo la ca-ra",
+   "pic": "🧼"
+  },
+  {
+   "t": "mi be-bé va a la cu-na",
+   "pic": "👶"
+  },
+  {
+   "t": "yo te quie-ro mu-cho",
+   "pic": "❤️"
+  },
+  {
+   "t": "pa-pá va a la ca-sa",
+   "pic": "🏠"
+  },
+  {
+   "t": "la ro-sa de ma-má",
+   "pic": "🌹"
+  },
+  {
+   "t": "la ho-ja se va de la ra-ma",
+   "pic": "🍃"
+  },
+  {
+   "t": "la ni-ña lle-va la lla-ve",
+   "pic": "🔑"
+  },
+  {
+   "t": "la lla-ma co-me ho-ja",
+   "pic": "🦙"
+  },
+  {
+   "t": "mi pa-to na-da",
+   "pic": "🦆"
+  },
+  {
+   "t": "yo be-bo ju-go",
+   "pic": "🧃"
+  },
+  {
+   "t": "la ni-ña se po-ne la ro-pa",
+   "pic": "👕"
+  },
+  {
+   "t": "mi ma-má co-ci-na",
+   "pic": "🍳"
+  }
+ ],
+ "alphabet": [
+  {
+   "l": "A",
+   "name": "a",
+   "word": "avión",
+   "pic": "✈️",
+   "en": "airplane",
+   "nameClip": "vx:a"
+  },
+  {
+   "l": "B",
+   "name": "be",
+   "word": "boca",
+   "pic": "👄",
+   "en": "mouth",
+   "nameClip": "s:be:1"
+  },
+  {
+   "l": "C",
+   "name": "ce",
+   "word": "casa",
+   "pic": "🏠",
+   "en": "house",
+   "nameClip": "s:ce:1"
+  },
+  {
+   "l": "D",
+   "name": "de",
+   "word": "dedo",
+   "pic": "☝️",
+   "en": "finger",
+   "nameClip": "s:de:1"
+  },
+  {
+   "l": "E",
+   "name": "e",
+   "word": "elefante",
+   "pic": "🐘",
+   "en": "elephant",
+   "nameClip": "vx:e"
+  },
+  {
+   "l": "F",
+   "name": "efe",
+   "word": "foca",
+   "pic": "🦭",
+   "en": "seal"
+  },
+  {
+   "l": "G",
+   "name": "ge",
+   "word": "gato",
+   "pic": "🐱",
+   "en": "cat",
+   "nameClip": "s:je:1"
+  },
+  {
+   "l": "H",
+   "name": "hache",
+   "word": "hada",
+   "pic": "🧚",
+   "en": "fairy"
+  },
+  {
+   "l": "I",
+   "name": "i",
+   "word": "isla",
+   "pic": "🏝️",
+   "en": "island",
+   "nameClip": "vx:i"
+  },
+  {
+   "l": "J",
+   "name": "jota",
+   "word": "jugo",
+   "pic": "🧃",
+   "en": "juice"
+  },
+  {
+   "l": "K",
+   "name": "ka",
+   "word": "koala",
+   "pic": "🐨",
+   "en": "koala",
+   "nameClip": "s:ca:1"
+  },
+  {
+   "l": "L",
+   "name": "ele",
+   "word": "luna",
+   "pic": "🌙",
+   "en": "moon"
+  },
+  {
+   "l": "M",
+   "name": "eme",
+   "word": "mano",
+   "pic": "✋",
+   "en": "hand"
+  },
+  {
+   "l": "N",
+   "name": "ene",
+   "word": "naranja",
+   "pic": "🍊",
+   "en": "orange"
+  },
+  {
+   "l": "Ñ",
+   "name": "eñe",
+   "word": "piña",
+   "pic": "🍍",
+   "en": "pineapple"
+  },
+  {
+   "l": "O",
+   "name": "o",
+   "word": "oso",
+   "pic": "🐻",
+   "en": "bear",
+   "nameClip": "vx:o"
+  },
+  {
+   "l": "P",
+   "name": "pe",
+   "word": "perro",
+   "pic": "🐶",
+   "en": "dog",
+   "nameClip": "s:pe:1"
+  },
+  {
+   "l": "Q",
+   "name": "cu",
+   "word": "queso",
+   "pic": "🧀",
+   "en": "cheese",
+   "nameClip": "s:cu:1"
+  },
+  {
+   "l": "R",
+   "name": "erre",
+   "word": "rana",
+   "pic": "🐸",
+   "en": "frog"
+  },
+  {
+   "l": "S",
+   "name": "ese",
+   "word": "sopa",
+   "pic": "🍲",
+   "en": "soup"
+  },
+  {
+   "l": "T",
+   "name": "te",
+   "word": "toro",
+   "pic": "🐂",
+   "en": "bull",
+   "nameClip": "s:te:1"
+  },
+  {
+   "l": "U",
+   "name": "u",
+   "word": "uva",
+   "pic": "🍇",
+   "en": "grape",
+   "nameClip": "vx:u"
+  },
+  {
+   "l": "V",
+   "name": "uve",
+   "word": "vaca",
+   "pic": "🐮",
+   "en": "cow"
+  },
+  {
+   "l": "W",
+   "name": "uve doble",
+   "word": "wafle",
+   "pic": "🧇",
+   "en": "waffle"
+  },
+  {
+   "l": "X",
+   "name": "equis",
+   "word": "taxi",
+   "pic": "🚕",
+   "en": "taxi"
+  },
+  {
+   "l": "Y",
+   "name": "ye",
+   "word": "yoyo",
+   "pic": "🪀",
+   "en": "yo-yo",
+   "nameClip": "s:ye:1"
+  },
+  {
+   "l": "Z",
+   "name": "zeta",
+   "word": "taza",
+   "pic": "☕",
+   "en": "cup"
+  }
+ ]
+}
